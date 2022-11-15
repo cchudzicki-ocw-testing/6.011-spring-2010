@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides question booklets, answer booklets, and solutions
+  for the quizzes and final exam of the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

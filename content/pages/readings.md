@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the course notes, information on a version of the
+  notes that has been adapted and published in book form, a list of additional required
+  texts, and a list of optional references.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
